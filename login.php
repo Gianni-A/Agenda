@@ -1,5 +1,5 @@
 <html>
-	<title>Login para entrar a la agenda</title>
+	<title>Login para entrar a las agendas</title>
 	<head>
 		
 	</head>
