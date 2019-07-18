@@ -1,5 +1,5 @@
 <html>
-	<title>Login para entrar a las agendas</title>
+	<title>Login para entrar a las agenda, donde puedes ver el inventario de tus productos</title>
 	<head>
 		
 	</head>
